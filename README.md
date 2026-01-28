@@ -30,3 +30,4 @@ The emphasis is placed on understanding how allocation choices affect portfolio 
 
 ## Repository Structure
 
+├── notebooks / scripts # Portfolio construction and analysis
